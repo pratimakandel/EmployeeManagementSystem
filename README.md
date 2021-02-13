@@ -2,7 +2,7 @@
 Employee management system using Spring Boot and PostgresQL
 
 ## Requirements
-- Postgres
+- PostgresQL
 
 ## How to run locally
 
