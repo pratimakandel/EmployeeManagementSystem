@@ -11,4 +11,4 @@ Employee management system using Spring Boot and PostgresQL
 3. Start PostgresQL server locally
 4. Create **employees** database
 4. Make sure properties in **application.properties** correspond to your local PostgresQL server 
-5. Start EmployeeManagementApplication
+5. Start **EmployeeManagementApplication**
